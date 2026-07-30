@@ -1,5 +1,8 @@
- #Hamilo - Sistema de Gestión de Inversiones
+ ## Hamilo - Sistema de Gestión de Inversiones
+## 🔑 Credenciales
 
+**Usuario:** `admin`  
+**Contraseña:** `admin.1`
 ## Descripción
 
 Aplicación web para la gestión de compras, ventas, productos, clientes y proveedores. La información se almacena localmente en el navegador mediante LocalStorage.
